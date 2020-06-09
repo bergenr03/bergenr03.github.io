@@ -1,0 +1,48 @@
+body {
+  background: white;
+}
+p {
+  color: black;
+  font-weight: bold;
+  font-family: sans-serif;
+  text-align: center;
+}
+h1 {
+  font-weight: bold;
+  text-decoration: underline;
+  color: mediumaquamarine;
+  font-family: monospace;
+  text-align: center;
+  border-style: groove;
+  border-radius: 10px;
+  border-width: 5px;
+}
+h2{
+  font-weight: bold;
+  color: coral;
+  font-family: monospace;
+  text-align: center;
+}
+h3{
+  text-align: center;
+
+}
+img{
+  float: left;
+  width: 150px;
+  margin: 20px;
+}
+li{
+  font-family:sans-serif;
+  font-weight: bold;
+  background-color: lightblue;
+}
+.refunct{
+  color: rgb(0,204,204)
+}
+.sm64{
+  color: rgb(0,0,204)
+}
+.celeste{
+  color: rgb(204,0,204)
+}
