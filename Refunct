@@ -1,0 +1,21 @@
+<html>
+  <head>
+    <link rel="stylesheet" href="style.css">
+  </head>
+  <body>
+    <a href="index.html">Back to Home</a>
+    <h1 class="refunct>Refunct</h1>
+    <img src="refunct.jpg">
+    <h3>Description</h3>
+    <p class="refunct">Refunct is much less popular than Super Mario 64, but is still pretty popular. It is popular due to multiple reasons. First being its price, only costing $3 on Steam. It is also very popular because of how easy to speedrun it is. It is very short and comes with a built in timer. Your first playthrough will be very relaxing, and will only take you around an hour if you do decide to play the game. This game has 4 different categories to choose from. </p>
+    <ul>
+      <li>Any%: Beat the game as fast as possible</li>
+      <li>100%: Touch all platforms and collect all cubes in order to earn 100%.</li>
+      <li>All Cubes: Collect all of the collectibles known as cubes.</li>
+      <li>Low%: Beat the game while earning the least % as possible. This is extremely difficult and not recommended.</li>
+    </ul>
+      <p>Each category has its "New Game Glitch" counter-part where you can perform the "New Game Glitch" that allows to sets of platforms to rise at once.</p>
+    <footer>Attribution-ShareAlike 4.0 International</footer>
+    
+  </body>
+</html>
